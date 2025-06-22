@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367588025847",
+    "project_id": "haetalhae3",
+    "storage_bucket": "haetalhae3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367588025847:android:1f96568bdd5b79426b7af2",
+        "android_client_info": {
+          "package_name": "com.example.haetalhae3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVI7Qm2_4eOTPfnlDbyy1SJGxAuueYR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

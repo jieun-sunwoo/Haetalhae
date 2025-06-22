@@ -1,0 +1,13 @@
+# Android
+.gradle/
+.idea/
+local.properties
+*.iml
+build/
+
+# Spring
+target/
+*.log
+
+# macOS
+.DS_Store
