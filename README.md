@@ -56,3 +56,4 @@ spring:
     url: jdbc:mysql://localhost:3306/templedb
     username: root
     password: [your_password]
+
